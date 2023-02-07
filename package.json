@@ -40,7 +40,7 @@
 		"@semantic-release/git": "^10.0.1",
 		"chai": "^4.3.7",
 		"mocha": "^10.2.0",
-		"rimraf": "^3.0.2",
+		"rimraf": "^4.1.2",
 		"rollup": "^3.0.0"
 	},
 	"dependencies": {
