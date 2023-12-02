@@ -1,0 +1,16 @@
+{
+	"januaryVariations": "Січень|січень|січня",
+	"februaryVariations": "Лютий|лютий|лютого",
+	"marchVariations": "Березень|березень|березня",
+	"aprilVariations": "Квітень|квітень|квітня",
+	"mayVariations": "Травень|травень|травня",
+	"juneVariations": "Червень|червень|червня",
+	"julyVariations": "Липень|липень|липня",
+	"augustVariations": "Серпень|серпень|серпня",
+	"septemberVariations": "Вересень|вересень|вересня",
+	"octoberVariations": "Жовтень|жовтень|жовтня",
+	"novemberVariations": "Листопад|листопад|листопада",
+	"decemberVariations": "Грудень|грудень|грудня",
+	"studyArticleDateVariations": "Стаття для вивчення {{ number }} ({{ date }})",
+	"partMinutesSeparatorVariations": "({{ duration }} хв)"
+}
