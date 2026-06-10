@@ -368,7 +368,7 @@ export const parseMWBSchedule = (htmlItem: HTMLElement, mwbYear: number, mwbLang
 
   const trailingNumbers = trailingTokens
     .flatMap((token) => Array.from(token.matchAll(/\d{1,3}/g)).map((match) => +match[0]))
-    .filter((num) => num > 0 && num <= 162);
+    .filter((num) => num > 0 && num <= 163);
 
   if (trailingNumbers.length > 0) {
     weekItem.mwb_song_conclude = trailingNumbers.at(-1)!;
